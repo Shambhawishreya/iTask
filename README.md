@@ -17,7 +17,7 @@ Toggle Completion: Click the checkbox next to the todo to mark it as completed o
 Show/Hide Completed: Toggle the checkbox labeled "Show Finished" to display or hide completed todos.
 
 ## Installation
-Clone the repository: git clone https://github.com/your/repository.git
+Clone the repository: git clone <link>
 Install dependencies: npm install
 Run the app: npm run dev
 
@@ -28,4 +28,4 @@ uuid
 
 ## Author
 Name: [Shambhawi Shreya]
-GitHub: Yhttps://github.com/Shambhawishreya
+GitHub: https://github.com/Shambhawishreya
